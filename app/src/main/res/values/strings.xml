@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Luminate Phone App</string>
+    <string name="app_name">AI Phone</string>
+
+    <string name="calls">Calls</string>
+    <string name="keypad">Keypad</string>
+    <string name="contacts">Contacts</string>
+    <string name="on_empty_calls">No calls</string>
+    <string name="on_empty_contacts">No contacts</string>
+
+    <string name="anything">Contacts</string>
+    <string name="search_holder">Search for calls</string>
+    <string name="options">Options</string>
+    <string name="menu_options">More Options</string>
+
 </resources>
