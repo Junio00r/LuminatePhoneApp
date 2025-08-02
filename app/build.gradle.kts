@@ -85,4 +85,6 @@ dependencies {
     implementation(libs.room.ktx.androidx)
     implementation(libs.room.test.androidx)
     implementation(libs.room.pagging.androidx)
+
+    implementation(libs.phone.number.google)
 }

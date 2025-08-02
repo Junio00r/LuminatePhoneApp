@@ -18,6 +18,7 @@ graphics-shapes     = "1.0.1"
 dagger              = "2.56.2"
 ksp                 = "2.2.0-2.0.2"
 androidx-hilt-navigation-compose = "1.2.0"
+phonenumber = "9.0.10"
 
 [libraries]
 androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle",            name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
@@ -50,6 +51,7 @@ room-compiler-androidx         = { group  = "androidx.room",                name
 room-ktx-androidx              = { group  = "androidx.room",                name = "room-ktx",              version.ref = "room" }
 room-test-androidx             = { group  = "androidx.room",                name = "room-testing",          version.ref = "room" }
 room-pagging-androidx          = { group  = "androidx.room",                name = "room-paging",           version.ref = "room"}
+phone-number-google            = { group  = "com.googlecode.libphonenumber",name = "libphonenumber",        version.ref="phonenumber" }
 
 [plugins]
 android-application = { id = "com.android.application",                     version.ref = "agp"     }
