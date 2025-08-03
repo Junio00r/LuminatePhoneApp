@@ -1,6 +1,5 @@
-package com.devmobile.android.luminatephoneapp.data.daos
+package com.devmobile.android.luminatephoneapp.data.local
 
-import androidx.paging.PagingSource
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert

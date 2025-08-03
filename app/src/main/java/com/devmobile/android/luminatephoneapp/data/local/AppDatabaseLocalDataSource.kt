@@ -10,8 +10,6 @@ import com.devmobile.android.luminatephoneapp.data.CallFtsEntity
 import com.devmobile.android.luminatephoneapp.data.ContactEntity
 import com.devmobile.android.luminatephoneapp.data.ContactFtsEntity
 import com.devmobile.android.luminatephoneapp.data.Converters
-import com.devmobile.android.luminatephoneapp.data.daos.CallDao
-import com.devmobile.android.luminatephoneapp.data.daos.ContactDao
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlin.concurrent.Volatile
 
